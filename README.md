@@ -1,8 +1,8 @@
-# Context24: Dataset repository for SDPROC Shared Task: Context24: Contextualizing Scientific Figures and Tables
+# Context25: Dataset repository for SDPROC Shared Task: Context25: Context25: Evidence and Grounding Context Identification for Scientific Claims
 
-This repository hosts the training/dev datasets and evaluation scripts for the [2024 Workshop on Scholarly Document Processing](https://sdproc.org/2024/sharedtasks.html#context24) Shared Task: **Context24: Contextualizing Scientific Figures and Tables**
+This repository hosts the training/dev datasets and evaluation scripts for the [2025 Workshop on Scholarly Document Processing](https://sdproc.org/2024/sharedtasks.html#context25) Shared Task: **Context25: Evidence and Grounding Context Identification for Scientific Claims**
 
-Submissions for the shared task will be evaluated on the `eval.ai` platform at this challenge URL: https://eval.ai/web/challenges/challenge-page/2306/overview (with a challenge period of May 31 10 am PST - June 6 5 pm PST).
+Submissions for the shared task will be evaluated on the `eval.ai` platform at this challenge URL: TBD (with a challenge period of TBD).
 
 ## Background and Problem
 
