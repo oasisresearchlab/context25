@@ -2,7 +2,7 @@
 
 This repository hosts the training/dev datasets and evaluation scripts for the [2025 Workshop on Scholarly Document Processing](https://sdproc.org/2024/sharedtasks.html#context25) Shared Task: **Context25: Evidence and Grounding Context Identification for Scientific Claims**
 
-Submissions for the shared task will be evaluated on the `eval.ai` platform at this challenge URL: TBD (with a challenge period of TBD).
+Submissions for the shared task will be evaluated on the `eval.ai` platform at this challenge URL: `{TODO}` (with a challenge period of `{TODO}`).
 
 ## Background and Problem
 
@@ -24,7 +24,7 @@ The directory structure is as follows:
 ```
 task1-train-dev.json
 task2-train-dev.json
-full_texts.json
+full_texts-train.json
 silver-data/
 eval/
 ```
@@ -33,7 +33,7 @@ The main training/dev datasets are in `task1-train-dev.json` and `task2-train-de
 
 PDFs for Task 1 are available at this gated HuggingFace repository: `{TODO}`
 
-The current set of full-text parses for each paper are in `fulltexts.json`. The json is structured as a dictionary, where each key is a citekey (e.g., `nomura2004human`) and with a string containing the whole full-text parse for that paper as its associated value.
+The current set of full-text parses for each paper are in `fulltexts-train.json`. The json is structured as a dictionary, where each key is a citekey (e.g., `nomura2004human`) and with a string containing the whole full-text parse for that paper as its associated value.
 
 Evaluation scripts for each task are in `eval/`
 
